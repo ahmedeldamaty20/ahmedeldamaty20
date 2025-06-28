@@ -11,7 +11,7 @@
 - 🌱  I’m currently learning **Backend  & Software Development**
 - ✍🏻  I love using Software and new technologies to solve problems.
 - 📚  I am currently learning `Computer Science`.
-- 📄  Know about my experiences <a href="https://drive.google.com/file/d/1648y8ScHzngiytaEKw5cBpd3QVP-4t_U/view?usp=drive_link" target="blank" >Resume</a>
+- 📄  Know about my experiences <a href="https://drive.google.com/file/d/1xcCNbabyp9HE5EsXq4IV9GZ2ArlD9yxk/view?usp=sharing" target="blank" >Resume</a>
 - ☕ Fun fact: I **can** start my day without a cup of coffee 'That help me to focus more during working'.
 
 ### Contact with me:
