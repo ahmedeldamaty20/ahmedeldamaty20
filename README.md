@@ -23,6 +23,3 @@
 <a href="https://codeforces.com/profile/El_DamitY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmedeldamity" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/El_DamitY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmedeldamity" height="30" width="40" /></a>
 </p>
-
-### My GitHub Stats
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedeldamity&theme=dark&layout=compact)
